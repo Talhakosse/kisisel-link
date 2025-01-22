@@ -1,4 +1,4 @@
 # kisisel-link  
 create by Talha Ramazan KÖSE  
-Bu repo bir html sayfası yönlendirmesi için kullanılmıştır.  
-Taklıt edebilirsiniz ama aynısnı kullanamazsınız
+<p>Bu repo bir html sayfası yönlendirmesi için kullanılmıştır.<p>  
+<p>Taklıt edebilirsiniz ama aynısnı kullanamazsınız<p>
