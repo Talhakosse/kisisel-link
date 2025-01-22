@@ -19,6 +19,7 @@
   <h4>Başlık 4 < h4></h4>
 
 |  Yazı tipi       |    Markdown  |  Html     |  Çıktı   | 
+| ------------------ | -------------- | ----------- | --------- | 
 | İtalik           |  *            |   aa     |    aa     | 
 | Kalın            |  *            |   aa     |    aa     | 
 | Kalın ve İtalık  |  *            |     aa   |     aa    | 
