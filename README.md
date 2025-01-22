@@ -4,7 +4,8 @@ create by Talha Ramazan KÖSE
 <p>Taklıt edebilirsiniz ama aynısnı kullanamazsınız<p>
 
 
-	| Syntax | Description |
-	| ----------- | ----------- |
-	| Header | Title |
-	| Paragraph | Text |
+|   	|   	|   	|   	|   	|
+|---	|---	|---	|---	|---	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
