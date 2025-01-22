@@ -18,7 +18,7 @@
 <h3>Başlık 3 < h3></h3>
   <h4>Başlık 4 < h4></h4>
 
-|                  |    Markdown  | Html   | Çıktı   |
+|  Yazı tipi       |    Markdown  | Html   | Çıktı   |
 | İtalik           | *            |        |         |
 | Kalın            | *            |        |         |
 | Kalın ve İtalık  | *            |        |         |
