@@ -20,6 +20,6 @@
 
 |  Yazı tipi       |    Markdown  |  Html     |  Çıktı   | 
 | ------------------ | -------------- | ----------- | --------- | 
-| İtalik           |  *            |   <em>     |    *İtalik*     | 
-| Kalın            |  **            |   <strong>    |    <strong>Kalın</strong>    | 
-| Kalın ve İtalık  |  ***            |     <em><strong>   |     ***Kalın ve İtalık***    | 
+| İtalik           |  *            |   < em>     |    *İtalik*     | 
+| Kalın            |  **            |   < strong>    |    <strong>Kalın</strong>    | 
+| Kalın ve İtalık  |  ***            |     < em>< strong>   |     ***Kalın ve İtalık***    | 
