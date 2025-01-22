@@ -2,7 +2,7 @@
 ## Başlıklar 2 şekilde verilebilir  
 
   
-| '#' Kullanımı | '<h 1>' Kullanımı |
+| '#' Kullanımı | '<h 1/h 2/h 3>' Kullanımı |
 | ----------- | --------- |
 | # Başılık 1 | <h 1> Başlık 1 |
 | ### Başılık 2 | <h 2> Başlık 1 |
@@ -11,8 +11,9 @@
 ###  '#' kullanımı  
 # Başlık 1 '#'
 ## Başlık 2 '#'
-### Başlık 3 '#'
-<h3>'<h 1/h 2/h 3>' Kullanımı </h3>
+### Başlık 3 '#'  
+
+<h3>' < h >' Kullanımı </h3>
 <h1>Başlık 1 '<h 1>'</h1>
 <h2>Başlık 2 '<h 2>'</h2>
 <h3>Başlık 3 '<h 3>'</h3>
