@@ -5,6 +5,6 @@ create by Talha Ramazan KÖSE
 
 
 	| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+	| ----------- | ----------- |
+	| Header | Title |
+	| Paragraph | Text |
